@@ -7,6 +7,8 @@
 - [Home](./index)
 - [Archive](./archive)
 - [About](./about)
+- [Topics](./topics)
+- [Guestbook](./guestbook)
 - [GitHub](https://github.com/ficcdaf/ficd-blog)
 
 <!-- -->

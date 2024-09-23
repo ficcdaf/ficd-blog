@@ -2,9 +2,15 @@
 
 # Welcome to Daniel's Computer Shack
 
-Hello, dear guest! My name is Daniel, and thank you for visiting my tiny corner of the internet! It may not be fancy, it may not be dynamic, but it's mine, and I'm glad you're here.
+Hello, dear guest! My name is Daniel, and thank you for visiting my computer shack! It's [small](https://1mb.club/), there's [no JavaScript](https://jsfree.org/), but it's mine, and I'm glad you're here.
 
-On this blog, you can expect to read about:
+- Tea and coffee is available, [on the house](./images/roof.png).
+- You are welcome to sign the [guestbook](./guestbook).
+- The [cat](./images/macs_r.png) is very friendly, and you can find treats for him on the [shelf](./images/shelf.png).
+
+## TL;DR Topics
+
+Generally, you can expect to read about:
 
 - Linux & FOSS
 - Programming
@@ -12,10 +18,12 @@ On this blog, you can expect to read about:
 - Computing Ethics
 - Other Cool Stuff
 
-## TL;DR [About Me](./about)
+If you are interested in a more detailed list (which also functions as a sort of public to-do list for me), you may visit the [topics](./topics) page for more information.
+
+## TL;DR About Me
 
 - Master's student studying Cyber Security
-- Linux nerd 🐧
+- Linux nerd
 - [Small Web](https://web.archive.org/web/20230402091636/https://smallweb.page/why) citizen
 - Privacy advocate
 - Has lots of opinions
