@@ -29,3 +29,5 @@ On this blog, you can expect to read about:
 <archive count="4" more="./archive"></archive>
 
 <!-- The "more posts" button will not appear if there are fewer or equal posts to the count attribute. -->
+
+<small>Note: This blog is automatically built and deployed through GitHub. If there are any issues, please contact me!</small>
