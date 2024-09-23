@@ -2,6 +2,9 @@
 
 ---
 1. Devine
+2. Karim
+    - Comment: 8008135
+    - Email: karimhalawa (a-t) hotmail (dot) com
 ---
 
 ## Sign the guestbook
