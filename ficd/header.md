@@ -1,7 +1,7 @@
 <zone>
 <rss-title>Daniel's Computer Shack</rss-title>
 <rss-description>Daniel's Computer Shack</rss-description>
-<rss-link>https://ficd.ca</rss-link>
+<rss-link>https://ficd.ca/</rss-link>
 </zone>
 
 - [Home](./index)
