@@ -38,4 +38,4 @@ If you are interested in a more detailed list (which also functions as a sort of
 
 <!-- The "more posts" button will not appear if there are fewer or equal posts to the count attribute. -->
 
-<small>Note: This blog is automatically built and deployed through GitHub. If there are any issues, please contact me!</small>
+<small>Note: I do not use underlines for styling. All underlined text [like this](./warning) is a hyperlink.</small>
