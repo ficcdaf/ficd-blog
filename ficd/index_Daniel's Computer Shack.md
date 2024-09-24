@@ -5,7 +5,6 @@
 Hello, dear guest! My name is Daniel, and thank you for visiting my computer shack! It's [small](https://1mb.club/), there's [no JavaScript](https://jsfree.org/), but it's mine, and I'm glad you're here.
 
 - Tea and coffee is available, [on the house](./images/roof.png).
-- You are welcome to sign the [guestbook](./guestbook).
 - The [cat](./images/macs_r.png) is very friendly, and you can find treats for him on the [shelf](./images/shelf.png).
 
 ## TL;DR Topics
@@ -16,7 +15,7 @@ Generally, you can expect to read about:
 - Programming
 - Cyber Security & Privacy
 - Computing Ethics
-- Other Cool Stuff
+- Poetry & Photography
 
 If you are interested in a more detailed list (which also functions as a sort of public to-do list for me), you may visit the [topics](./topics) page for more information.
 

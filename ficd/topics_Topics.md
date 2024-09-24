@@ -26,10 +26,6 @@ Yes, my biggest passion, as you may have already guessed, is computer science! A
   - [Right To Repair](https://en.wikipedia.org/wiki/Right_to_repair)
   - Social Media & Alternatives
 
-Of course, I may sometimes write about other things too, such as:
+I am also very likely to share my poetry and photos I've taken.
 
-- Mental Health
-- Living with [ADHD](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder) and [Autism](https://en.wikipedia.org/wiki/Autism)
-- Photography
-- Music
-- Film
+Please enjoy your stay, and check out the [./archive] for some interesting posts!
