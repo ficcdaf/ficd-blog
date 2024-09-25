@@ -62,7 +62,7 @@ a:hover {
   background: var(--main-transparent);
 }
 img {
-  width: 100%;
+  width: auto;
   height: auto;
 }
 blockquote {
@@ -92,6 +92,29 @@ pre {
 small {
   font-size: 0.95rem;
   color: var(--main-small-text-color);
+}
+small a {
+  color: inherit; /* Inherit the color of the surrounding <small> text */
+  text-decoration: underline; /* Optional: Keep the underline to indicate a link */
+}
+.image-container {
+  text-align: center;
+  margin: 20px 0; /* Optional: add some spacing around the image container */
+}
+
+.image-container img {
+  /* max-width: 308px; */
+  max-height: 308px;
+}
+
+.image-container small {
+  display: block; /* Ensure the caption is on a new line */
+  margin-top: 5px; /* Optional: adjust spacing between image and caption */
+}
+
+.image-container small a {
+  color: inherit; /* Ensure the link color matches the small text */
+  text-decoration: underline; /* Optional: underline to indicate a link */
 }
 #header ul {
   list-style-type: none;
