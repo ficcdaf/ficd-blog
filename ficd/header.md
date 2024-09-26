@@ -14,5 +14,6 @@
 <!-- -->
 
 - [RSS](./feed.xml)
+- [Gallery](./gallery)
 
 ---
