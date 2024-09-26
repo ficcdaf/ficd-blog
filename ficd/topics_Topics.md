@@ -28,4 +28,4 @@ Yes, my biggest passion, as you may have already guessed, is computer science! A
 
 I am also very likely to share my poetry and photos I've taken.
 
-Please enjoy your stay, and check out the [./archive] for some interesting posts!
+Please enjoy your stay, and check out the [archive](./archive) for some interesting posts!
