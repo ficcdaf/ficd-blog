@@ -15,9 +15,7 @@ The web we know is spun by gluttonous spiders no longer satiated by flies and ro
 </div>
 No more.
 
-The spores are already sprouting, recycling the decaying corporate internet into binary compost. My only goal is to help you feed the fungi, should you wish.
-
-Welcome to the small web.
+The spores are already sprouting, recycling the decaying corporate internet into binary compost.
 
 <div class="image-container">
 <img src="./images/mush.png" alt="A dithered monochrome image of two white mushroom caps sprouting from tree bark">
@@ -25,8 +23,6 @@ Welcome to the small web.
 <small>Mushroom caps on tree, Daniel, 2024.</small>
 
 </div>
-
-## The Lovecraftian Internet
 
 The internet is incomprehensively massive. As of publication, conservative estimates claim at least **4.2 billion** indexed webpages.<sup>1</sup> _Indexed_, in this context, means publicly accessible individual webpages that can be found on a search engine because [web crawlers](https://en.wikipedia.org/wiki/Web_crawler) can reach them. This is known as the **surface web**.
 
@@ -43,22 +39,22 @@ No one knows the true size of the deep web. It's impossible to even guess. Accor
 
 The internet is a [Lovecraftian](https://www.hplovecraft.com/creation/bestiary.aspx) entity in scale, tangibility, and perceptibility. Clearly, this web was not spun by an itsy-bitsy spider.
 
-...
-
-So what if the internet is big? Why should we care?
-
-## The Web Is Unfree
-
-(Body section on how the modern internet is mostly corporate, impersonal, and its users do not have ownership over their own data.)
-
-- Examples of how corporations monopolize the web
-- Data ownership, power dynamics between users and service providers
-
-## The Web Is Swollen
-
-## We Can Own The Web
-
-## A Smaller Web
+<!-- ... -->
+<!---->
+<!-- So what if the internet is big? Why should we care? -->
+<!---->
+<!-- ## The Web Is Unfree -->
+<!---->
+<!-- (Body section on how the modern internet is mostly corporate, impersonal, and its users do not have ownership over their own data.) -->
+<!---->
+<!-- - Examples of how corporations monopolize the web -->
+<!-- - Data ownership, power dynamics between users and service providers -->
+<!---->
+<!-- ## The Web Is Swollen -->
+<!---->
+<!-- ## We Can Own The Web -->
+<!---->
+<!-- ## A Smaller Web -->
 
 ---
 

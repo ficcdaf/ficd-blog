@@ -1,8 +1,8 @@
-<img style="max-width: 308px; max-height: 308px; margin-left: auto; margin-right: auto;" src="./images/logo.png" alt="Daniel's Computer Shack Logo">
+<!-- <img style="max-width: 308px; max-height: 308px; margin-left: auto; margin-right: auto;" src="./images/logo.png" alt="Daniel's Computer Shack Logo"> -->
 
-# Welcome to Daniel's Computer Shack
+# Welcome to the Binary Compost Blog
 
-Hello, dear guest! My name is Daniel, and thank you for visiting my computer shack! It's [small](https://1mb.club/), there's [no JavaScript](https://jsfree.org/), but it's mine, and I'm glad you're here.
+It's [small](https://1mb.club/), there's [no JavaScript](https://jsfree.org/), but it's mine, and I'm glad you're here.
 
 - Tea and coffee is available, [on the house](./images/roof.png).
 - You are welcome to sign the [guestbook](./guestbook).
