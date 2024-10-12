@@ -22,7 +22,7 @@ jobs:
         run: timeout 10s ./zoner ficd || true
 
       - name: Deploy to neocities
-        uses: bcomnes/deploy-to-neocities@v2.0.2
+        uses: bcomnes/deploy-to-neocities@v2
         with:
           # api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
           api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
