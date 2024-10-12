@@ -18,13 +18,13 @@ jobs:
       - uses: actions/checkout@v3
       # Set up any tools and build steps here
       # When the dist_dir is ready, deploy it to neocities
-      - name: Set up OpenSSL
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y libssl1.1
+      # - name: Set up OpenSSL
+      #   run: |
+      #     sudo apt-get update
+      #     sudo apt-get install -y libssl1.1
 
-      - name: Run Zoner to build
-        run: chmod +x ./zoner && timeout 10s ./zoner ficd || true
+      # - name: Run Zoner to build
+      #   run: chmod +x ./zoner && timeout 10s ./zoner ficd || true
       - name: Deploy to neocities
         uses: bcomnes/deploy-to-neocities@v2
         with:

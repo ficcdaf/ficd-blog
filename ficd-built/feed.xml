@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>	<title>Binary Compost Blog</title>
+	<description>Binary Compost Blog</description>
+	<link>https://ficd.ca/</link>
+	<atom:link href="https://ficd.ca/" rel="self"></atom:link>
+	<language>en</language>
+	<lastBuildDate>
+Sat, 12 Oct 2024 20:50:50 +0000
+</lastBuildDate>
+	<ttl>1440</ttl>
+
+	<item>
+		<title>The Lovecraftian Internet</title>
+		<description>The web we know is spun by gluttonous spiders no longer satiated by flies and roaches. They cast their net wide across the world, like cuckoos they lay their parasitic eggs inside our lives. They fondle our brains until our DNA is infested with algorithms, our ribcages become mainframes and our eyes turn into screens.</description>
+		<link>https://ficd.ca/posts/2024-10-12-2.html</link>
+		<pubDate>
+			Sat, 12 Oct 2024 00:00:00 +0000
+		</pubDate>
+	</item>
+
+	<item>
+		<title>The Mushroom Knows</title>
+		<description>The rain comes
+And goes</description>
+		<link>https://ficd.ca/posts/2024-10-12-1.html</link>
+		<pubDate>
+			Sat, 12 Oct 2024 00:00:00 +0000
+		</pubDate>
+	</item>
+
+</channel>
+</rss>
