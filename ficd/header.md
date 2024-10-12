@@ -1,6 +1,6 @@
 <zone>
-<rss-title>Daniel's Computer Shack</rss-title>
-<rss-description>Daniel's Computer Shack</rss-description>
+<rss-title>Binary Compost Blog</rss-title>
+<rss-description>Binary Compost Blog</rss-description>
 <rss-link>https://ficd.ca/</rss-link>
 </zone>
 
@@ -14,5 +14,6 @@
 <!-- -->
 
 - [RSS](./feed.xml)
+- [Gallery](./gallery)
 
 ---
